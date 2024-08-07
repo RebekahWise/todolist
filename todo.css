@@ -1,0 +1,17 @@
+li button {
+    border-radius: 50%;
+    color: white;
+    background-color: #a01c1c78;
+    border: none;
+    font-size: 1rem;
+    margin-left: 0.5rem;
+    vertical-align: middle;
+  }
+  li {
+    font-size: 2rem;
+  }
+  .done {
+    color: #00800059;
+    text-decoration: line-through;
+    font-size: 1.75rem;
+  }
